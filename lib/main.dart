@@ -37,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: Text( 'Wǒ de jiā (v3)' ),
+          title: Text( 'Wǒ de jiā (v3.01)' ),
           //leading: BackArrow(),
           centerTitle: true,
           actions: <Widget>[
